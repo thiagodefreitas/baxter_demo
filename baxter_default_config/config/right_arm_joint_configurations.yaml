@@ -1,0 +1,5 @@
+joint_names: ["right_s0","right_s1","right_e0","right_e1","right_w0","right_w1","right_w2"]
+
+# single positions
+angles_coffee_switch: [[-0.46518, -0.494325, 0.78118, 2.131083, 1.659767, 0.390015, 0.152631]]
+angles_coffee_switch_approach: [[-0.609757, -0.512733, 0.82068, 2.221204, 1.576165, 0.390015, 0.151481]]

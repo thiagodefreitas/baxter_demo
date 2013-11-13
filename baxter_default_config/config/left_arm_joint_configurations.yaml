@@ -1,0 +1,5 @@
+joint_names: ["left_s0","left_s1","left_e0","left_e1","left_w0","left_w1","left_w2"]
+
+# single positions
+angles_machine: [[-0.382728, 0.683005, -1.333029, 1.133995, -0.049087, 0.302194, -1.033903]]
+angles_machine_approaching: [[0.009971, 0.701796, -1.213379, 1.36601, 0.172573, 0.427981, -1.035821]]

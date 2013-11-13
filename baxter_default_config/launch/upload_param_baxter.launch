@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<launch>
+
+	<!-- send ROBOT parameters to parameter server -->
+	<rosparam command="load" ns="/script_server/right_arm" file="$(find baxter_default_config)/config/right_arm_joint_configurations.yaml"/>
+	<rosparam command="load" ns="/script_server/left_arm" file="$(find baxter_default_config)/config/left_arm_joint_configurations.yaml"/>
+	
+</launch>
